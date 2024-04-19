@@ -13,3 +13,10 @@ x = bytearray(5)
 print(x)
 print(type(x))
 
+l = frozenset({"king", "jjk"})
+print(l)
+print(type(l))
+
+k = memoryview(bytes(5))
+print(k)
+print(type(k))
