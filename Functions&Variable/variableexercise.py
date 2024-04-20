@@ -24,4 +24,4 @@ def fun():
     global p
     p = "Fantastic"
 fun()
-print("Pyhton is" , p)
+print("Pyhton is" , p)  
